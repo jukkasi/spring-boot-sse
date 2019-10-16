@@ -9,7 +9,7 @@ Resolved [org.springframework.web.HttpMediaTypeNotAcceptableException: Could not
 
 For Spring Boot 2.1
 
-1. Set Spring Boot version 2.1.2.RELEASE in pom.xml
+1. Set Spring Boot version 2.1.9.RELEASE in pom.xml
 2. Start application
 3. Use Chrome http://localhost:8080/index.html
 4. Open devtools -> Network
